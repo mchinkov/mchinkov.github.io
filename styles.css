@@ -12,3 +12,8 @@ p {
   font-size: 12pt;
   margin: 10px;
 }
+
+footer {
+  background-color: #66717e;
+  margin-top: auto;
+}
